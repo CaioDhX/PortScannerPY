@@ -5,9 +5,11 @@ Nossa equipe Red Ribbon tem o prazer de apresentar o desenvolvimento do RASP par
 
 ## Grupo Red Ribbon
 - **Membros da Equipe:**
-  - João Silva: Engenheiro de Software
-  - Maria Santos: Especialista em Segurança da Informação
-  - Pedro Oliveira: Desenvolvedor Mobile
+  - Matheus Rosa
+  - Henrique Koji
+  - Felipe Madeira
+  - Pedro Augusto
+  - Caio Vinícius
 
 - **Descrição:**
 A Red Ribbon é uma equipe multidisciplinar comprometida em encontrar soluções inovadoras para desafios de segurança cibernética. Nosso enfoque para o desafio Hakai foi combinar análise técnica profunda com práticas de mitigação eficazes.

@@ -12,7 +12,7 @@ Nossa equipe Red Ribbon tem o prazer de apresentar o desenvolvimento do RASP par
   - Caio Vinícius
 
 - **Descrição:**
-A Red Ribbon é uma equipe multidisciplinar comprometida em encontrar soluções inovadoras para desafios de segurança cibernética. Nosso enfoque para o desafio Hakai foi combinar análise técnica profunda com práticas de mitigação eficazes.
+A Red Ribbon é uma organização que presta serviços relacionados à aplicações mobile usando uma solução RASP SDK (Runtime Application Self-Protection).
 
 ## Relatório/Desenvolvimento do RASP
 - **Abordagem Adotada:**

@@ -17,7 +17,7 @@ A Red Ribbon é uma organização que presta serviços relacionados à aplicaç�
 ## Relatório/Desenvolvimento do RASP
 - **Abordagem Adotada:**
   - Estudo detalhado dos documentos fornecidos pela Hakai Security.
-  - Análise do aplicativo InsecureBankv2 para identificar vulnerabilidades.
+  - Análise e exploração do aplicativo InsecureBankv2, seguidas da correlação das vulnerabilidades identificadas com as diretrizes do OWASP (MASVT), garantindo uma abordagem completa e alinhada com as melhores práticas de segurança da OWASP.
   - Implementação do RASP com base nas diretrizes do MASVT da OWASP.
 
 - **Etapas de Pentesting:**

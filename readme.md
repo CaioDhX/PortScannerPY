@@ -1,7 +1,7 @@
 # Apresentação: Desenvolvimento do RASP para o Hakai Challenge
 
 ## Introdução
-Nossa equipe Red Ribbon tem o prazer de apresentar o desenvolvimento do RASP para o Hakai Challenge. Este desafio nos proporcionou uma oportunidade única de explorar e mitigar vulnerabilidades em aplicativos móveis, contribuindo para a segurança digital.
+Nossa equipe Red Ribbon tem o prazer de apresentar o desenvolvimento do RASP para o Hakai Challenge. Este desafio irá proporcionou uma oportunidade única de explorar e mitigar vulnerabilidades em aplicativos móveis, contribuindo para a segurança digital.
 
 ## Grupo Red Ribbon
 - **Membros da Equipe:**

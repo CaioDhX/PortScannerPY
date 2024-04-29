@@ -1,4 +1,4 @@
-# Apresentação: Desenvolvimento do RASP para o Hakai Challenge
+# Apresentação: Sprint 1 - Hakai Challenge
 
 ## Introdução
 Nossa equipe Red Ribbon tem o prazer de apresentar o desenvolvimento do RASP para o Hakai Challenge. Este desafio irá proporcionou uma oportunidade única de explorar e mitigar vulnerabilidades em aplicativos móveis, contribuindo para a segurança digital.
@@ -14,11 +14,11 @@ Nossa equipe Red Ribbon tem o prazer de apresentar o desenvolvimento do RASP par
 - **Descrição:**
 A Red Ribbon é uma organização que presta serviços relacionados à aplicações mobile usando uma solução RASP SDK (Runtime Application Self-Protection).
 
-## Relatório/Desenvolvimento do RASP
+## Estudo em cima do material
 - **Abordagem Adotada:**
   - Estudo detalhado dos documentos fornecidos pela Hakai Security.
   - Análise e exploração do aplicativo InsecureBankv2, seguidas da correlação das vulnerabilidades identificadas com as diretrizes do OWASP (MASVT), garantindo uma abordagem completa e alinhada com as melhores práticas de segurança da OWASP.
-  - Implementação do RASP com base nas diretrizes do MASVT da OWASP.
+  - Desenvolvimento e implementação de medidas de mitigação personalizadas para cada vulnerabilidade identificada, incluindo a criação de sub-códigos e instruções detalhadas para corrigir e prevenir tais problemas, alinhados com as diretrizes do OWASP, visando uma proteção abrangente e eficaz do aplicativo contra ameaças potenciais.
 
 - **Etapas de Pentesting:**
   - Identificação das vulnerabilidades no InsecureBankv2.
@@ -27,8 +27,6 @@ A Red Ribbon é uma organização que presta serviços relacionados à aplicaç�
 
 ## Resultados
 - **Overview dos Relatórios:**
-  - Documentação detalhada das vulnerabilidades encontradas.
-  - Destaque das principais vulnerabilidades e suas soluções propostas.
   - Demonstração prática da eficácia do RASP na mitigação das ameaças identificadas.
 
 ## Conclusão

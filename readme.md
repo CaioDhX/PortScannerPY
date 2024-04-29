@@ -27,7 +27,7 @@ A Red Ribbon é uma organização que presta serviços relacionados à aplicaç�
 ## Resultados
 - **Overview dos Relatórios:**
   - Os estudos e relatórios serão de suma importância para a fase de desenvolvimento do RASP.
-  - O mapeamento do app inseguro nos mostra diferentes formas de como explorar vulnerabilidades em um sistema Android
+  - O mapeamento do app inseguro nos mostra diferentes formas de como explorar vulnerabilidades em um sistema Android.
 
 ## Conclusão
 - **Recapitulação:**

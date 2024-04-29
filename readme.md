@@ -26,12 +26,12 @@ A Red Ribbon é uma organização que presta serviços relacionados à aplicaç�
 
 ## Resultados
 - **Overview dos Relatórios:**
-  - Demonstração prática da eficácia do RASP na mitigação das ameaças identificadas.
+  - Os estudos e relatórios serão de suma importância para a fase de desenvolvimento do RASP.
+  - O mapeamento do app inseguro nos mostra diferentes formas de como explorar vulnerabilidades em um sistema Android
 
 ## Conclusão
 - **Recapitulação:**
   - O estudo em cima do *InsecureBanckV2* disponibilizado pela Hakai Security foi uma experiência valiosa.
-  - Os estudos e relatórios serão de suma importância para a fase de desenvolvimento do RASP.
   - Reconhecimento da importância contínua do monitoramento e atualização do RASP para enfrentar novas ameaças.
 
 - **Agradecimentos:**

@@ -23,7 +23,6 @@ A Red Ribbon é uma organização que presta serviços relacionados à aplicaç�
 - **Etapas de Pentesting:**
   - Identificação das vulnerabilidades no InsecureBankv2.
   - Documentação das explorações realizadas e correlação com o MASTG da OWASP.
-  - Desenvolvimento de códigos e instruções para mitigação das vulnerabilidades.
 
 ## Resultados
 - **Overview dos Relatórios:**

@@ -38,7 +38,3 @@ A Red Ribbon é uma equipe multidisciplinar comprometida em encontrar soluções
 - **Agradecimentos:**
   Agradecemos à Hakai Security pela oportunidade de participar deste desafio e aos avaliadores por seu tempo e consideração.
 
-## Contato
-Para mais informações ou perguntas, entre em contato conosco:
-- Email: redribbon@example.com
-- Website: [www.redribbonsecurity.com](http://www.redribbonsecurity.com)
